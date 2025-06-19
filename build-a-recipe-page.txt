@@ -1,0 +1,39 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Binangkal</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Binangkal Recipe</h1>
+    <p>Binangkal is a native doughnut from Mindanao and Visayas, but also commonly found in most homegrown neighborhood bakeries or panaderias in the Philippines. It’s especially popular in Cebu as a snack school kids can bring. Unlike most fried and fluffy donuts, binangkal bread is chewy, making it the perfect pair with sesame seeds. The sesame seed’s nutty flavor is released with every bite and chew of the golden brown hard-crisp crust.</p>
+    <img src="https://images.yummy.ph/yummy/uploads/2020/07/binangkalrecipe-readerrecipe-1.jpg" alt="Delicious Binangkal"/>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>All-Purpose Flour 2 cups</li>
+      <li>Cornstarch ¼ cup</li>
+      <li>White Sugar ¾ cup</li>
+      <li>Salt ¼ teaspoon</li>
+      <li>Baking Powder 1 teaspoon</li>
+      <li>Salted Butter (melted) 2 tablespoons</li>
+      <li>Large Egg 1</li>
+      <li>Evaporated Milk ½ cup</li>
+      <li>Sesame Seeds ½ cup</li>
+      <li>Vanilla (Optional) ¼ teaspoon</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Combine all dry ingredients in a bowl: flour, cornstarch, sugar, salt, and baking powder. Mix well.</li>
+      <li>In a separate bowl mix together milk, melted butter, and egg. Mix well.</li>
+      <li>Slowly add the dry ingredients into the wet mixture. Mix well to form a dough.</li>
+      <li>Scoop a tablespoon mixture to form a ball and roll it into the sesame seeds.</li>
+      <li>Prepare oil in a pan for deep frying. Make sure the oil is hot before putting the dough.v</li>
+      <li>Deep fry until golden brown.</li>
+    </ol>
+  </body>
+</html>
+
+** end of index.html **
+
